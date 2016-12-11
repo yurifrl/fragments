@@ -1,5 +1,6 @@
 const { toUpper } = require('ramda')
 
+// TODO: make functional like
 const sameXOAmount = function(str) {
   let xCount = 0
   let oCount = 0

@@ -1,6 +1,8 @@
 // Given an array of numbers, you should compute the sum of the two smallest
 // number values. You can assume that the array only contains
 // numbers, is never undefined and the array has min length of 2.
+//
+// TODO: make functional like
 const sumSmallestNumbers = function(numbers) {
   let first = Number.MAX_VALUE
   let second = Number.MAX_VALUE
