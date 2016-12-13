@@ -10,7 +10,7 @@
     "ramda": "^0.22.1"
   },
   "scripts": {
-    "test": "mocha"
+    "test": "mocha tests/*"
   },
   "author": "yuri freire",
   "license": "ISC"

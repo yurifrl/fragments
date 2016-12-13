@@ -2,7 +2,7 @@ version: '2'
 services:
   web:
     image: node
-    command: npm test tests/*
+    command: npm test
     working_dir: /app
     ports:
     - 8080:8080
